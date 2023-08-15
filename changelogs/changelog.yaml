@@ -26,3 +26,8 @@ releases:
           description: Playbook to call resize_ec2_instance role for Event
             Driven Ansible rulebook
           namespace: null
+  1.0.1:
+    release_date: '2023-08-15'
+    changes:
+      release_summary: This release adds a requirements.txt file for python requirements as well as
+        a meta/extensions.yml which is necessary for displaying EDA plugins in Automation Hub documentation.
