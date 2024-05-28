@@ -99,14 +99,14 @@ Once the webhook is created and configured in Turbonomic to send the action(s) t
 ## Requirements
 
 ```
-    ansible>=2.12.0
-    python>=3.9 
+    ansible>=2.15.0
+    python>=3.9
     requests>=2.31
 ```
 
 ## Licensing
 
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)  
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 
 ## Release Notes

@@ -31,3 +31,8 @@ releases:
     changes:
       release_summary: This release adds a requirements.txt file for python requirements as well as
         a meta/extensions.yml which is necessary for displaying EDA plugins in Automation Hub documentation.
+  1.0.2:
+    release_date: '2024-03-28'
+    changes:
+      release_summary: This release bumps ansible core package to 3.15 as well as updates the requirements.txt file
+        with appropriate updates.

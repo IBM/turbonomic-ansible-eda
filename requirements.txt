@@ -1,12 +1,12 @@
-ansible==6.7.0
-ansible-core==2.13.11
+ansible>=7.4.0
+ansible-core>=2.15
 awscli==1.29.26
 botocore==1.31.26
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
 colorama==0.4.4
-cryptography==41.0.3
+cryptography==42.0.4
 docutils==0.16
 idna==3.4
 Jinja2==3.1.2
